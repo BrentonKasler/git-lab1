@@ -40,4 +40,10 @@ Date:   Thu Oct 26 19:54:25 2023 -0400
     Initial commit
 9. On branch main
 nothing to commit, working tree clean
-10. 
+10. Yes.
+11. Get the message "fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main"
+12. Yes. 
+13. .  ..  .git
